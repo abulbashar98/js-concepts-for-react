@@ -94,3 +94,9 @@ isActive && showUser();
 // 2. if  variable is false function execution is true.....
 //    if  variable is true function execution is false.....
 isActive || hideUser();
+
+
+
+// toggle boolean 
+
+isActive = !isActive;
